@@ -18,7 +18,7 @@ const carData = [
     km: "18.400 km",
     fuel: "Gasolina",
     transmission: "Manual 6v",
-    price: "R$ 289.900",
+    price: "R$ 300.900",
     tag: "Recém-chegado",
     image: null
   },
@@ -33,7 +33,7 @@ const carData = [
     km: "31.200 km",
     fuel: "Flex",
     transmission: "Automático CVT",
-    price: "R$ 172.500",
+    price: "R$ 350.500",
     tag: null,
     image: null
   },
@@ -48,7 +48,7 @@ const carData = [
     km: "9.800 km",
     fuel: "Diesel",
     transmission: "Automático 8v",
-    price: "R$ 254.900",
+    price: "R$ 400.900",
     tag: "Quilometragem baixa",
     image: null
   },
@@ -63,7 +63,7 @@ const carData = [
     km: "24.600 km",
     fuel: "Gasolina",
     transmission: "Manual 6v",
-    price: "R$ 198.000",
+    price: "R$ 800.000",
     tag: null,
     image: null
   },
@@ -78,7 +78,7 @@ const carData = [
     km: "52.100 km",
     fuel: "Flex",
     transmission: "Automático 6v",
-    price: "R$ 96.400",
+    price: "R$ 120.400",
     tag: null,
     image: null
   },
@@ -93,7 +93,7 @@ const carData = [
     km: "14.900 km",
     fuel: "Gasolina",
     transmission: "Automático 8v",
-    price: "R$ 312.000",
+    price: "R$ 500.000",
     tag: "Últimas unidades",
     image: null
   }
