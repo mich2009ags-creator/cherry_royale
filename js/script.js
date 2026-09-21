@@ -13,7 +13,7 @@ const carData = [
     transmission:"Manual 6v",
     price:"R$ 300.900",
     tag:"Recém-chegado",
-    image:"imagens/corcel-rubro.jpg"
+    image:"imagens/corsel.jpg"
   },
 
   {
@@ -29,7 +29,7 @@ const carData = [
     transmission:"Automático CVT",
     price:"R$ 350.500",
     tag:null,
-    image:"imagens/damasco-sedan.jpg"
+    image:"imagens/damasco.jpg"
   },
 
   {
@@ -45,7 +45,7 @@ const carData = [
     transmission:"Automático 8v",
     price:"R$ 400.900",
     tag:"Quilometragem baixa",
-    image:"imagens/carro2.jpeg"
+    image:"imagens/suv.jpg"
   },
 
   {
@@ -61,7 +61,7 @@ const carData = [
     transmission:"Manual 6v",
     price:"R$ 800.000",
     tag:null,
-    image:"imagens/carro3.jpeg"
+    image:"imagens/cereja.jpg"
   },
 
   {
@@ -77,7 +77,7 @@ const carData = [
     transmission:"Automático 6v",
     price:"R$ 120.400",
     tag:null,
-    image:"imagens/marfim-sedan.jpg"
+    image:"imagens/marfim.jpg"
   },
 
   {
@@ -93,7 +93,7 @@ const carData = [
     transmission:"Automático 8v",
     price:"R$ 500.000",
     tag:"Últimas unidades",
-    image:"imagens/ouro-velho-suv.jpg"
+    image:"imagens/ourovelho.jpg"
   }
 
 ];
