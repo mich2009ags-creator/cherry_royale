@@ -45,7 +45,7 @@ const carData = [
     transmission:"Automático 8v",
     price:"R$ 400.900",
     tag:"Quilometragem baixa",
-    image:"imagens/bravata-suv.jpg"
+    image:"imagens/carro2.jpeg"
   },
 
   {
@@ -61,7 +61,7 @@ const carData = [
     transmission:"Manual 6v",
     price:"R$ 800.000",
     tag:null,
-    image:"imagens/cereja-coupe.jpg"
+    image:"imagens/carro3.jpeg"
   },
 
   {
